@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hallooo 👋
+Ich bin Rachmad, 😁Ich lebe in Indonesien, 🌱 liebe es zu programmieren und Probleme zu lösen ^_^
 
+[![@rachyharkov's Holopin board](https://holopin.me/rachyharkov)](https://holopin.io/@rachyharkov)
 <!--
 **rachyharkov/rachyharkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
